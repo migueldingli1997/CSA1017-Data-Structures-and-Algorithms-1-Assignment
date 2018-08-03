@@ -1,1 +1,1 @@
-# CSA1017-Data-Structures-and-Algorithms-1-Assignment
+# CSA1017 (Data Structures and Algorithms 1) Assignment
